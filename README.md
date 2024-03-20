@@ -1,4 +1,4 @@
-# CSC249 Programming Project 
+# Customizable Music Playlist
 - Edgar Quinones
 - Date Created: 2/27/2023
 ### Purpose of Program:
